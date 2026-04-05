@@ -1,0 +1,14 @@
+Commercial License
+
+Author: Giritharan J
+Website Template: A2Z Service Booking Website
+
+This license allows the buyer to:
+✔ Use the template for one business
+✔ Modify the template
+✔ Deploy for commercial use
+
+Not allowed:
+✘ Resell the template
+✘ Redistribute the code
+✘ Upload to marketplaces without permission
